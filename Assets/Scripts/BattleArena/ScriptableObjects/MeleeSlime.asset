@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2af4f107e9659344da89bc6aefff22de, type: 3}
+  m_Name: MeleeSlime
+  m_EditorClassIdentifier: 
+  CharType: 0
+  CharRoles: 1
+  Health: 260
+  ATK: 30
+  DEF: 15
+  Speed: 15
+  CritChance: 5
+  EnergyRecovery: 5
+  EnergyForUltimates: 0
+  NeedEnergyToUseUltimates: 50
+  CharXP: 0
+  CharLevel: 1
