@@ -1,7 +1,7 @@
 ## Collective characters game
 
 <p align="center">
-<img src="https://i.ibb.co/VYggz1L/Game2-Logo.png" width="500px">
+<img src="https://i.ibb.co/VYggz1L/Game2-Logo.png" width="300px">
 </p>
 
 <p align="center">
